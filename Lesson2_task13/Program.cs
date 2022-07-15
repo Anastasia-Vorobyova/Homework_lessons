@@ -5,7 +5,7 @@ string some_string;
 if (number > 0)
 {
    Console.WriteLine("Ввели число "+ number);
-   if (number>100) 
+   if (number>=100) 
    {
     some_string = Convert.ToString(number);
     Console.WriteLine ("Третье число ");
