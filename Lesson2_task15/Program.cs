@@ -1,10 +1,10 @@
 ﻿// программа, которая принимает на вход цифру, обозначающую день недели, и проверяет является ли этот день выходным
 Console.WriteLine ("Введите цифру от 1 до 7, соответствующую дню недели");
 int day = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("День недели: ");
 
 if(day>=1 && day<=5)
 {
+    Console.WriteLine("День недели: ");
     if (day ==1)
     {
     Console.WriteLine ("понедельник"); 
@@ -25,10 +25,11 @@ if(day>=1 && day<=5)
     {
     Console.WriteLine ("пятница"); 
     }
+    Console.WriteLine("Выходной? Нет");
 }
 else if(day==6 || day==7)
 {
-Console.WriteLine("Выходной ");
+Console.WriteLine("День недели: ");
     if (day ==6)
     {
     Console.WriteLine ("суббота"); 
@@ -37,4 +38,5 @@ Console.WriteLine("Выходной ");
     {
     Console.WriteLine ("воскресенье"); 
     }
+    Console.WriteLine("Выходной? Да");
 }
