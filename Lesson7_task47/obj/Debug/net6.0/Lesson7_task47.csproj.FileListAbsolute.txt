@@ -1,0 +1,15 @@
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.csproj.AssemblyReference.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.AssemblyInfoInputs.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.AssemblyInfo.cs
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.csproj.CoreCompileInputs.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\bin\Debug\net6.0\Lesson7_task47.exe
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\bin\Debug\net6.0\Lesson7_task47.deps.json
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\bin\Debug\net6.0\Lesson7_task47.runtimeconfig.json
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\bin\Debug\net6.0\Lesson7_task47.dll
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\bin\Debug\net6.0\Lesson7_task47.pdb
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.dll
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\refint\Lesson7_task47.dll
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.pdb
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\Lesson7_task47.genruntimeconfig.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson7_task47\obj\Debug\net6.0\ref\Lesson7_task47.dll
