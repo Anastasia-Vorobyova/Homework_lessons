@@ -1,0 +1,15 @@
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.csproj.AssemblyReference.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.AssemblyInfoInputs.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.AssemblyInfo.cs
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.csproj.CoreCompileInputs.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\bin\Debug\net6.0\Lesson8_task62.exe
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\bin\Debug\net6.0\Lesson8_task62.deps.json
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\bin\Debug\net6.0\Lesson8_task62.runtimeconfig.json
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\bin\Debug\net6.0\Lesson8_task62.dll
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\bin\Debug\net6.0\Lesson8_task62.pdb
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.dll
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\refint\Lesson8_task62.dll
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.pdb
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\Lesson8_task62.genruntimeconfig.cache
+C:\Users\Vorob\OneDrive\Рабочий стол\Обучение\ДЗ\C#\Homework1\Homework_lessons\Lesson8_task62\obj\Debug\net6.0\ref\Lesson8_task62.dll
